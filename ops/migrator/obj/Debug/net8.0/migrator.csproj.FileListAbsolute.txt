@@ -1,0 +1,15 @@
+D:\AppDev\PropAgent\ops\migrator\bin\Debug\net8.0\migrator.exe
+D:\AppDev\PropAgent\ops\migrator\bin\Debug\net8.0\migrator.deps.json
+D:\AppDev\PropAgent\ops\migrator\bin\Debug\net8.0\migrator.runtimeconfig.json
+D:\AppDev\PropAgent\ops\migrator\bin\Debug\net8.0\migrator.dll
+D:\AppDev\PropAgent\ops\migrator\bin\Debug\net8.0\migrator.pdb
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.AssemblyInfoInputs.cache
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.AssemblyInfo.cs
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.csproj.CoreCompileInputs.cache
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.sourcelink.json
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.dll
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\refint\migrator.dll
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.pdb
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\migrator.genruntimeconfig.cache
+D:\AppDev\PropAgent\ops\migrator\obj\Debug\net8.0\ref\migrator.dll
