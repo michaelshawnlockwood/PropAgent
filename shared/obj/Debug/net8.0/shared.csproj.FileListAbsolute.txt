@@ -1,0 +1,13 @@
+D:\AppDev\PropAgent\shared\bin\Debug\net8.0\shared.deps.json
+D:\AppDev\PropAgent\shared\bin\Debug\net8.0\shared.dll
+D:\AppDev\PropAgent\shared\bin\Debug\net8.0\shared.pdb
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.AssemblyInfoInputs.cache
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.AssemblyInfo.cs
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.csproj.CoreCompileInputs.cache
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.sourcelink.json
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.dll
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\refint\shared.dll
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.pdb
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\ref\shared.dll
+D:\AppDev\PropAgent\shared\obj\Debug\net8.0\shared.csproj.AssemblyReference.cache

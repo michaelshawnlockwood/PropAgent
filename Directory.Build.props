@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <Using Include="System" />
+    <Using Include="System.Collections.Generic" />
+  </ItemGroup>
+</Project>
