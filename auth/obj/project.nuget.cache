@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vS+4FQ9oyHQ=",
+  "dgSpecHash": "ouHrDhLXyg8=",
   "success": true,
-  "projectFilePath": "D:\\AppDev\\PropAgent\\auth\\auth.csproj",
+  "projectFilePath": "D:\\AppDev\\PropAgent\\Auth\\auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\finbuckle.multitenant\\9.4.1\\finbuckle.multitenant.9.4.1.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\finbuckle.multitenant.aspnetcore\\9.4.1\\finbuckle.multitenant.aspnetcore.9.4.1.nupkg.sha512",
@@ -30,6 +30,7 @@
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.9.0\\swashbuckle.aspnetcore.6.9.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
