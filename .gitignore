@@ -1,0 +1,111 @@
+# ------------------------------------------------------------
+# Core .NET / Visual Studio / VS Code
+# ------------------------------------------------------------
+bin/
+obj/
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.cache
+
+# Build and publish artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.xml
+*.json.user
+project.lock.json
+artifacts/
+
+# ------------------------------------------------------------
+# Environment, config & secrets
+# ------------------------------------------------------------
+*.env
+.env.*
+*.secrets.json
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+secrets.json
+secrets/
+config/
+vault-token*
+.vault-token
+.vault-id
+vault-init.json
+vault-root.json
+rootCA.*
+*.pem
+*.key
+*.crt
+*.csr
+*.der
+*.pfx
+
+# ------------------------------------------------------------
+# System & IDE noise
+# ------------------------------------------------------------
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# ------------------------------------------------------------
+# Docker / Compose / Containers
+# ------------------------------------------------------------
+docker-compose.override.yml
+docker-compose.local.yml
+*.pid
+*.pid.lock
+
+# ------------------------------------------------------------
+# Certificates, cache, runtime
+# ------------------------------------------------------------
+/certs/
+/cache/
+/logs/
+/data/
+/runtime/
+/storage/
+
+# ------------------------------------------------------------
+# PowerShell & scripts
+# ------------------------------------------------------------
+*.ps1~
+*.psm1~
+*.cmd
+*.bat
+*.sh
+*.bak
+*.old
+*.log
+
+# ------------------------------------------------------------
+# Dev-only assets
+# ------------------------------------------------------------
+/sandbox/
+/testdata/
+/snapshots/
+/__pycache__/
+/notebooks/
+/*.ipynb_checkpoints
+
+# ------------------------------------------------------------
+# Git & GitHub
+# ------------------------------------------------------------
+*.orig
+*.diff
+*.patch
+*.rej
+.idea/
+.github/
+*.code-workspace

@@ -1,7 +1,7 @@
 ﻿using System;
 using Finbuckle.MultiTenant.Abstractions;
 
-namespace Shared
+namespace PropAgent.Shared
 {
     public sealed class AppTenantInfo : ITenantInfo
     {

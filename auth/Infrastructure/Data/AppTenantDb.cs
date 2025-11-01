@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Npgsql;
 using Finbuckle.MultiTenant;
 using Finbuckle.MultiTenant.Abstractions;
-using Shared;
+using PropAgent.Core.Tenancy;
 
 namespace PropAgent.Auth.Infrastructure.Data
 {
