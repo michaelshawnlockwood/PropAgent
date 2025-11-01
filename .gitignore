@@ -9,7 +9,6 @@ obj/
 *.suo
 *.userosscache
 *.userprefs
-*.cache
 
 # Build and publish artifacts
 *.dll
@@ -20,6 +19,9 @@ obj/
 *.xml
 *.json.user
 project.lock.json
+**/[Bb]in/**
+**/[Oo]bj/**
+**/publish/**
 artifacts/
 
 # ------------------------------------------------------------
